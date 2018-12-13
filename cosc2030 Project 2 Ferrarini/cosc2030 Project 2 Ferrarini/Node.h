@@ -1,5 +1,5 @@
 #pragma once
-
+// Author: Cameron Ferrarini
 #include "stdafx.h"
 #include <iostream>
 #include <string>
