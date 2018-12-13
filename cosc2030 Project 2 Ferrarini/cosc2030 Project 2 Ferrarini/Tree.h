@@ -1,7 +1,7 @@
 #pragma once
 #include "Node.h"
 #include <vector>
-
+// Author: Cameron Ferrarini
 
 
 class Tree
